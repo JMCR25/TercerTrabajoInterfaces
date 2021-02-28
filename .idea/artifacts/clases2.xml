@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="clases2">
+    <output-path>$PROJECT_DIR$/out/artifacts/clases2</output-path>
+    <root id="archive" name="clases2.jar">
+      <element id="directory" name="com.company">
+        <element id="directory" name="bases" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: LGoodDatePicker-10.3.1.jar JTattoo-1.6.13.jar jsf-impl-1.2-b
+ 19.jar jgoodies-common-1.8.1.jar jfreechart-1.0.13.jar jcommon-1.0.24.j
+ ar forms-1.2.1.jar jasperreports-6.16.0.jar commons-logging-1.2.jar for
+ ms-1.2.1.jar jcommon-1.0.24.jar JTattoo-1.6.13.jar jsf-impl-1.2-b19.jar
+  jfreechart-1.0.13.jar commons-logging-1.2.jar commons-digester-2.1.jar
+  jasperreports-6.16.0.jar commons-digester3-3.2.jar jgoodies-common-1.8
+ .1.jar LGoodDatePicker-10.3.1.jar commons-beanutils-1.8.3.jar commons-c
+ ollections4-4.1.jar commons-collections-3.2.2.jar commons-digester3-3.2
+ -javadoc.jar commons-digester3-3.2-sources.jar commons-digester3-3.2-wi
+ th-deps.jar
+

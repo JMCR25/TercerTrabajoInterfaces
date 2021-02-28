@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="clases">
+    <output-path>$PROJECT_DIR$/out/artifacts/clases</output-path>
+    <root id="archive" name="clases.jar">
+      <element id="directory" name="com">
+        <element id="directory" name="company">
+          <element id="directory" name="base">
+            <element id="file-copy" path="$PROJECT_DIR$/out/production/1erTrabajo2doTrimestreCenadorRamirezJoseMaria/com/company/base/Autor.class" />
+            <element id="file-copy" path="$PROJECT_DIR$/out/production/1erTrabajo2doTrimestreCenadorRamirezJoseMaria/com/company/base/Revista.class" />
+            <element id="file-copy" path="$PROJECT_DIR$/out/production/1erTrabajo2doTrimestreCenadorRamirezJoseMaria/com/company/base/EntradaInforme.class" />
+            <element id="file-copy" path="$PROJECT_DIR$/out/production/1erTrabajo2doTrimestreCenadorRamirezJoseMaria/com/company/base/Manga.class" />
+          </element>
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
