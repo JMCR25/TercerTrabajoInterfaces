@@ -230,7 +230,14 @@ public class Modelo implements Serializable{
      */
     public void eliminarMangaAutor(Autor autor, Manga manga){
         autor.getPublicaciones().remove(manga);
-        manga.getAutor().remove(autor.getIdAutor());
+        int contador = 0;
+        for (int autores : manga.getAutor()) {
+            if(autores==autor.getIdAutor()) {
+                manga.removeAutor(autor.getIdAutor());
+                break;
+            }
+            contador++;
+        }
 
     }
 

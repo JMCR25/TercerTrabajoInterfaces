@@ -200,7 +200,7 @@ public class Controlador implements ActionListener, KeyListener, ListSelectionLi
                 case "eliminarAutorManga": {
                     if (autorSeleccionado.getIdAutor() != 0)
                         for(Manga autorMangaSeleccionad:autorMangaSeleccionado)
-                        modelo.eliminarMangaAutor(autorSeleccionado, autorMangaSeleccionad);
+                            modelo.eliminarMangaAutor(autorSeleccionado, autorMangaSeleccionad);
                     break;
                 }
                 case "annadirManga": {
@@ -823,10 +823,5 @@ public class Controlador implements ActionListener, KeyListener, ListSelectionLi
                 vista.mangasRevistasDlm.addElement(manga);
             }
         }
-
-
     }
-
-
-
 }
